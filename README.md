@@ -9,6 +9,8 @@
 
 ---
 
+# Markdown #
+
 Eu estou apredendo a linguagem **Markdown** no **curso em vídeo do git/github**
 
 **Negrito**
@@ -49,3 +51,25 @@ Lista de tarefa
 - [ ] Receber pagamentento 
 
 ![](Site-Ola-Mundo/markdown_icon.png)
+
+[LINK Acesse meu github](https://github.com/DiegoGomesFerreira)
+
+Tabela
+
+Numero | Nome | Nota
+---|---|---
+1|Diego|8,5
+2|Lucas|7,5
+3|Berenice|10,0
+
+Comandos
+
+Não entendo pra que serve direito o comando `document.getElementById()` da linguagem javascript
+
+Programa em Python
+
+```
+print("Olá Mundo")
+for x in range(0,10):
+   print(x)
+```
