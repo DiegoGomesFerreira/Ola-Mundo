@@ -47,3 +47,5 @@ Lista de tarefa
 - [x] Criar a pagina da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamentento 
+
+![](Site-Ola-Mundo/markdown_icon.png)
