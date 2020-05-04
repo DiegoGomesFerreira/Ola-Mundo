@@ -73,3 +73,10 @@ print("Olá Mundo")
 for x in range(0,10):
    print(x)
 ```
+
+Emoticons
+
+Olá pequeno gafanhoto :vulcan_salute: :hand:
+
+Reply
+> Sera que vai chover
