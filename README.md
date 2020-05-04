@@ -7,6 +7,7 @@
 
  Projeto de um site criado durante o curso de **Git e GitHub** criado no *Curso em Vídeo*
 
+---
 
 Eu estou apredendo a linguagem **Markdown** no **curso em vídeo do git/github**
 
